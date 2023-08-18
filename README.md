@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello
+I am James, a software engineer with ~4 years of experience working in finance / banking.
 
-<!--
-**jambethl/jambethl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+I enjoy working on the backend.
 
-Here are some ideas to get you started:
+### Professional experience
+- Java; Python; React
+- PostgreSQL; MySQL; Oracle DB; Microsoft SQL Server
+- Spring; Guice
+- AWS; Kubernetes; Terraform; Docker
+- Maven; Gradle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbyist experience
+- Rust; C++
+- Cargo; Make
