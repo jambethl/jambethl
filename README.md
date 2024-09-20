@@ -10,11 +10,11 @@
 </a>
 
 ## Repos
-<a href="https://github.com/jambethl/nvim-conf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=nvim-conf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <a href="https://github.com/jambethl/pg-column-analyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=pg-column-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/jambethl/nvim-conf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=nvim-conf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br/>
 <br/>
