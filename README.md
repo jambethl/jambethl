@@ -10,14 +10,17 @@
 </a>
 
 ## Repos
+<a href="https://github.com/jambethl/commit-block">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=commit-block&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/jambethl/pg-column-analyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=pg-column-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/jambethl/nvim-conf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=nvim-conf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<br/>
-<br/>
 <a href="https://github.com/jambethl/financial-instrument-pricing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jambethl&repo=financial-instrument-pricing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
